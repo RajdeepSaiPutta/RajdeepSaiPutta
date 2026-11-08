@@ -2,9 +2,10 @@
 
 ### Hi, I'm Rajdeep Putta.
 
-<em>✏️ Experienced machine learning, deep learning and agentic engineer.</em>
+<em>Experienced machine learning, deep learning and agentic engineer.</em>
 
 [Website](https://rajdeepputta.pages.dev) · [GitHub](https://github.com/rajdeepsaiputta) · [X](https://x.com/your-handle)
+
 
 <br clear="right" />
 
@@ -14,7 +15,7 @@
 
 <em>https://github.com/RajdeepSaiPutta/stethos</em>
 
-<em>https://github.com/RajdeepSaiPutta/stethos</em>
+<em>https://github.com/RajdeepSaiPutta/evaluator</em>
 
 </td><td valign="top" width="50%">
 
