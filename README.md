@@ -13,7 +13,7 @@
 
 #### Selected work
 
-<em>https://github.com/RajdeepSaiPutta/stethos</em>
+<em>https://huggingface.co/rajdeepp11/stethos</em>
 
 <em>https://github.com/RajdeepSaiPutta/evaluator</em>
 
