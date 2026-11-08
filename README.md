@@ -4,7 +4,7 @@
 
 <em>Experienced machine learning, deep learning and agentic engineer.</em>
 
-[Website](https://rajdeepputta.pages.dev) · [GitHub](https://github.com/rajdeepsaiputta) · [X](https://x.com/your-handle)
+[Website](https://rajdeepputta.pages.dev) · [GitHub](https://github.com/rajdeepsaiputta) · [Instagram](https://www.instagram.com/rajdeep_.p._/)
 
 
 <br clear="right" />
