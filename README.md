@@ -32,8 +32,3 @@
     bash and the rest of the shell (bash, zsh, sh, linux)
 
 </em>
-<details>
-<summary><b>Activity this year</b></summary>
-<br />
-<img src="https://www.gitskins.com/api/section/heatmap?username=rajdeepsaiputta&theme=github-dark&mode=light" width="100%" alt="Contributions in the last year" />
-</details>
