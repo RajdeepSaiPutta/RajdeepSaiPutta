@@ -37,7 +37,3 @@
 <details>
 <summary><b>Activity this year</b></summary>
 <br />
-<img src="https://www.gitskins.com/api/section/heatmap?username=rajdeepsaiputta&theme=github-dark&mode=light" width="100%" alt="Contributions in the last year" />
-</details>
-
-<p align="center"><sub>Rajdeep Putta · <a href="https://www.gitskins.com/readme-generator?template=community-hire-me-brief-94yz">Hire Me Brief</a> template by <a href="https://www.gitskins.com/templates">GitSkins</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
